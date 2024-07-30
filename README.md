@@ -4,6 +4,7 @@
   and special characters to ensure strong password complexity.
 
 **Features**
+
   1) Generates random passwords of a user-specified length.
   2) Ensures passwords include a mix of:
     (a) Uppercase letters (A-Z)
@@ -13,23 +14,29 @@
   3) Uses SecureRandom for cryptographic strength randomness.
 
 **Prerequisites**
+
   Java Development Kit (JDK) installed on your machine. You can download it from https://www.oracle.com/in/java/technologies/downloads/.
 
 **Running the Program**
+
   Clone the repository:
+  
     git clone https://github.com/yourusername/PasswordGenerator.git
     cd PasswordGenerator
     
   Compile the Java program:
+  
     javac PasswordGenerator.java
 
   Run the program:
+  
     java PasswordGenerator
     
   The program will output a randomly generated password of length 12 by default. You can modify the length by 
   changing the length variable in the main method.
 
 **Code Explanation**
+
   The "PasswordGenerator" class contains the following main components:
 
     1) Character Sets: The character sets for uppercase letters, lowercase letters, numbers, and special characters.
