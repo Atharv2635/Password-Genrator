@@ -21,7 +21,7 @@
 
   Clone the repository:
   
-    git clone https://github.com/yourusername/PasswordGenerator.git
+    git clone https://github.com/Atharv2635/PasswordGenerator.git
     cd PasswordGenerator
     
   Compile the Java program:
